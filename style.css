@@ -52,6 +52,13 @@ h2{
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
+    border-left: 10px solid;
+}
+#full-web{
+    border-image: linear-gradient(45deg, rgb(25, 13, 189), rgb(250,224,66)) 1;
+}
+#baby-web{
+    border-image: linear-gradient(45deg, rgb(235, 135, 5), rgb(178, 41, 219)) 1; 
 }
 .footer{
     text-align: center;
