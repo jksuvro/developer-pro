@@ -15,7 +15,7 @@ h2{
 .orange-color{
     color: orange;
 }
-section{
+.flexiable{
     display: flex;
 }
 .half-width{
@@ -35,4 +35,25 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.expriences-item{
+    width: 40%;
+    box-shadow: 5px 10px 40px #888888;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
+.footer{
+    text-align: center;
+    padding: 20px;
 }
